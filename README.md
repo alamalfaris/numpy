@@ -1,4 +1,4 @@
-# numpy
+# Numpy
 
-## Repository ini adalah tempat saya share tentang numpy dari yang telah saya pelajari
-## Siapapun berhak untuk mengakses dan menambahkan karena saya yakin masih banyak kekurangannya
+### Repository ini adalah tempat saya share tentang numpy dari yang telah saya pelajari
+### Semoga dapat menginspirasi untuk belajar data science
